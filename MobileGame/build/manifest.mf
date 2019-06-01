@@ -1,0 +1,6 @@
+MIDlet-1: MyGame, , MyGame
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: MobileGame
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
